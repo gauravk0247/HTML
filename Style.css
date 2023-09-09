@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#rank{
+    /* margin: 500px, auto; */
+    margin-top: 50%;
+}
+.Deco{
+    background-image: url(tank.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background: no-repeat; */
+}
+.Deco h1{
+    color: white;
+}
+.Deco p{
+    color: white;
+}

@@ -1,0 +1,1 @@
+// write a program to find wheather a point lies on the 1st Quadrant , 2nd Quadrant, 3rd Quadrant, 4th Quadrant, X-axis, Y-axis, or is the Origin in the 2-D geometry/Cartesian System.
